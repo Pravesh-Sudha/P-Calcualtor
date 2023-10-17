@@ -13,7 +13,7 @@ Welcome to the P-Calculator App! This app provides a user-friendly and visually 
 - [Features](#features)
 - [Contributing](#contributing)
 
-## Getting Started
+## Getting Started 📝
 
 To get started with the app, follow these steps:
 
