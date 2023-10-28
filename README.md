@@ -1,4 +1,4 @@
-# P-Calculator App 🚀
+# P-Calculator App 🚀 🚀
 
 Welcome to the P-Calculator App! This app provides a user-friendly and visually appealing calculator interface for performing basic arithmetic calculations. To get started, follow the instructions below to clone the repository, build the app using Android Studio, and run it on your Android device or emulator.
 
